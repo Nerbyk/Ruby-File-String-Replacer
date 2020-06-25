@@ -2,7 +2,7 @@
 ## Description
 This script gives you an ability to globally replace strings in your project folder
 
-This is the basic option of any editor, but still ...
+This is the basic option of any editor, BUT ...
 ## Usage 
 1. Move `replaceStrings.rb` to main file directory of your project 
 2. Start the script 
